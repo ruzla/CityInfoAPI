@@ -22,6 +22,7 @@ namespace CityInfo.API
                     o.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter());
                 });
 
+
                 //.AddJsonOptions(o =>
                 //{
                 //    if (o.SerializerSettings.ContractResolver != null)

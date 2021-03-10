@@ -7,10 +7,13 @@ C:\Projects\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.pdb
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfoInputs.cache
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfo.cs
-C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cache
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cs
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
 C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
+C:\Projects\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\nlog.config
+C:\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Projects\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projects\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.production.json
